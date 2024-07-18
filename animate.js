@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function () {
       { opacity: 1 }
     ],
     {
-      duration: 1000,
+      duration: 800,
       easing: 'ease-out',
       fill: 'forwards'
     }
@@ -26,7 +26,7 @@ document.addEventListener("DOMContentLoaded", function () {
       { opacity: 1 }
     ],
     {
-      duration: 1000,
+      duration: 800,
       easing: 'ease-out',
       fill: 'forwards'
     }
