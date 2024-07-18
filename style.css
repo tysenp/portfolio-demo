@@ -4,13 +4,13 @@
 
 }
 
-.hello {
+.main {
   font-family: "sfpro";
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  font-size: 8vh;
+  font-size: 6vh;
   background: linear-gradient(to right,
       #be22ff 20%,
       #f727a9 30%,
