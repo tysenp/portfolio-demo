@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
 
-  const helloElement = document.querySelector('.hello');
+  const helloElement = document.querySelector('.main');
 
   helloElement.animate(
     [
@@ -35,7 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 document.addEventListener('DOMContentLoaded', function () {
   const checkbox = document.querySelector('.nav-container input.checkbox');
-  const form = document.querySelector('.hello');
+  const form = document.querySelector('.main');
 
   checkbox.addEventListener('change', function () {
       form.style.display = this.checked ? 'none' : 'block';
