@@ -77,13 +77,17 @@ body {
 
 .navbar .menu-items {
   display: flex;
-  background: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+  -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
 }
 
 .navbar .nav-container li {
   list-style: none;
-  background: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px); 
+  -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
 }
 
@@ -93,7 +97,9 @@ body {
   font-weight: 500;
   font-size: 8vh;
   padding: 0.7rem;
-  background: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px); 
+  -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
 }
 
@@ -105,7 +111,9 @@ body {
   display: block;
   position: relative;
   height: 60px;
-  background: black;
+  background-color: rgba(255, 255, 255, 0.8);
+  backdrop-filter: blur(10px); /* Adjust the blur radius as needed */
+  -webkit-backdrop-filter: blur(10px);
   z-index: 1000;
 }
 
