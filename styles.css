@@ -31,10 +31,10 @@ body {
 }
 
 .redacted {
-  font-family: monospace;
-  font-size: 16px;
+  font-size: 1.5rem;
   line-height: 1.5;
   color: white;
+  font-weight: 400; 
   user-select: none;
 }
 
