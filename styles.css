@@ -17,7 +17,7 @@ body {
 
 .title {
     font-family: 'Inter', sans-serif;
-    font-size: 7rem; 
+    font-size: 4.5rem; 
     text-align: center;
     margin-top: 130px;
     margin-bottom: 15px;
@@ -31,7 +31,7 @@ body {
     font-weight: 345; 
     display: block;
     line-height: 1.5;
-    opacity: 0.3;
+    opacity: 0.4;
 }
 
 .redacted {
@@ -45,7 +45,7 @@ body {
   width: 60px;
   vertical-align: middle;
   line-height: 1.5;
-  opacity: 0.3;
+  opacity: 0.4;
 }
 
 .box {
