@@ -28,6 +28,7 @@ body {
     color: white;
     margin-top: 7px;
     font-weight: 400; 
+    display: inline;
 }
 
 .redacted {
@@ -39,6 +40,7 @@ body {
   display: inline-block;
   overflow: hidden; 
   white-space: nowrap;
+  width: 60px;
 }
 
 .box {
