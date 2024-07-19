@@ -36,6 +36,7 @@ body {
   color: white;
   font-weight: 400; 
   user-select: none;
+  display: inline-block;
   overflow: hidden; 
   white-space: nowrap;
 }
