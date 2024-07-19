@@ -21,8 +21,6 @@ body {
     text-align: center;
     margin-top: 140px;
     opacity: 0.6;
-    background: linear-gradient(to right, #d2feb4, #12cabf);
-    -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 }
 
