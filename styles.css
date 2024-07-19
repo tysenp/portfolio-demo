@@ -29,6 +29,7 @@ body {
     margin-top: 7px;
     font-weight: 400; 
     display: inline;
+    line-height: 1.5;
 }
 
 .redacted {
@@ -41,6 +42,7 @@ body {
   overflow: hidden; 
   white-space: nowrap;
   width: 60px;
+  line-height: 1.5;
 }
 
 .box {
