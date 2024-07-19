@@ -25,26 +25,27 @@ body {
 
 .subtitle {
     font-size: 1rem; 
-    text-align: center;
-    color: white;
-    margin-top: 0;
-    font-weight: 345; 
-    display: block;
-    line-height: 1.5;
-    opacity: 0.4;
+    text-align: center; 
+    color: white; 
+    margin-top: 0; 
+    font-weight: 400; 
+    display: block; 
+    line-height: 1.5; 
+    opacity: 0.4; 
 }
 
 .redacted {
-  font-size: 1rem;
-  font-weight: 345; 
-  margin-top: 0;
-  display: inline-block;
-  overflow: hidden; 
-  white-space: nowrap;
-  width: 60px;
-  vertical-align: middle;
-  line-height: 1.5;
-  opacity: 0.4;
+    font-size: 1rem; 
+    color: white; 
+    font-weight: 400; 
+    margin-top: 0; 
+    display: inline-block; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    width: 60px; 
+    vertical-align: middle; 
+    line-height: 1.5; 
+    opacity: 0.4; 
 }
 
 .box {
