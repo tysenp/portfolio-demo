@@ -12,6 +12,6 @@ function redactText() {
 
 function animateRedaction() {
   redactText();
-  setTimeout(animateRedaction, 30);
+  setTimeout(animateRedaction, 300);
 
 animateRedaction();
