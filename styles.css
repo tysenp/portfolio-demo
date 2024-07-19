@@ -39,13 +39,12 @@ body {
     color: white; 
     font-weight: 400; 
     margin-top: 0; 
-    display: block; 
+    display: inline-block; 
     overflow: hidden; 
     white-space: nowrap; 
     width: 60px; 
     vertical-align: middle; 
     line-height: 1.5; 
-    opacity: 0.4; 
 }
 
 .box {
