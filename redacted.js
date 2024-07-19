@@ -13,5 +13,6 @@ function redactText() {
 function animateRedaction() {
     redactText();
     setTimeout(animateRedaction, 30); 
+}
 
 animateRedaction();
