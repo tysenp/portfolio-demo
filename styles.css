@@ -20,8 +20,6 @@ body {
     font-size: 7rem; 
     text-align: center;
     margin-top: 140px;
-    opacity: 0.8;
-    -webkit-background-clip: text;
 }
 
 .subtitle {
