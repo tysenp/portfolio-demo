@@ -39,6 +39,7 @@ body {
     color: white; 
     font-weight: 700; 
     margin-top: 0; 
+    margin-left: 5px;
     display: inline-block; 
     overflow: hidden;  
     width: 60px; 
