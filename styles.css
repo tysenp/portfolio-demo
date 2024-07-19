@@ -23,6 +23,7 @@ body {
 }
 
 .title {
+    font-family: 'SF Pro', sans-serif;
     font-size: 7rem; 
     text-align: center;
     margin-top: 120px;
