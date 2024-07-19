@@ -32,9 +32,9 @@ body {
 
 .redacted {
   font-size: 1.5rem;
-  line-height: 1.5;
   color: white;
   font-weight: 400; 
+  margin-top: 7px;
   user-select: none;
   display: inline-block;
   overflow: hidden; 
