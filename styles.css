@@ -42,7 +42,6 @@ body {
     display: inline; 
     overflow: hidden;  
     white-space: nowrap;
-    vertical-align: middle; 
     line-height: 1.5; 
 }
 
