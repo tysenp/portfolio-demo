@@ -20,7 +20,7 @@ body {
     font-size: 7rem; 
     text-align: center;
     margin-top: 140px;
-    opacity: 0.8;
+    opacity: 0.5;
     -webkit-background-clip: text;
 }
 
@@ -32,6 +32,7 @@ body {
     font-weight: 345; 
     display: inline;
     line-height: 1.5;
+    opacity: 0.3;
 }
 
 .redacted {
@@ -45,6 +46,7 @@ body {
   width: 60px;
   vertical-align: middle;
   line-height: 1.5;
+  opacity: 0.3;
 }
 
 .box {
